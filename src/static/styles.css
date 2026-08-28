@@ -88,8 +88,8 @@ section h3 {
 
 .participants ul {
   margin: 0;
-  padding-left: 0;
-  list-style: none;
+  padding-left: 20px;
+  list-style: disc;
   color: #52606d;
 }
 
